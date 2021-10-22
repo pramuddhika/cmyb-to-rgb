@@ -1,0 +1,76 @@
+ body{
+     background-image: url("Photo/ph2.jpg");
+     background-repeat: no-repeat;
+     background-position-x: right;
+}
+ #p1{
+     margin-top: 0;
+     margin-left: 200px;
+     margin-bottom: 0;
+     color: red;
+     font-size: 900%;
+     font-family: 'Times New Roman', Times, serif;
+    ;
+ }
+
+#p2{
+    margin-top: 0;
+    margin-left: 400px;
+    margin-bottom: 0;
+    color: red;
+    font-size: 500%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+pre{
+    margin-left: 200px;
+    color: blue;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+#p3{
+    margin-left: 150px;
+    color: cornflowerblue;
+    font-family: fantasy;
+    font-size: 250%;
+}
+
+#b1{
+    margin-left: 200px;
+    background-color: yellow;
+    font-size: 300%;
+    color: rgb(19, 18, 19);
+}
+
+#b2{
+    margin-top: 0;
+    margin-left: 850px ;
+    margin-bottom: 0;
+    background-color: yellow;
+    font-size: 300%;
+    color: rgb(19, 18, 19);
+}
+
+#p4{
+    margin-top: 0;
+    margin-left: 250px;
+    margin-bottom: 0;
+    color: black;
+    font-family: monospace;
+    font-size: 300%;
+    font-weight: bolder;
+}
+
+#r{
+    color: red;
+}
+#g{
+    color:green
+}
+#b{
+    color: blue;
+}
+p{
+    margin: 0;
+}
